@@ -1,8 +1,23 @@
-Welcome to my GitHub profile! Here's a little bit about me: I'm a passionate developer with a love for open-source projects and collaboration. My repositories showcase my skills in various programming languages and technologies.
-To learn more about me and my work, check out my profile README. I've included information about my background, interests, and current projects. You'll also find links to my social media profiles and personal website.
-Creating a profile README is easy! Simply create a new repository with the same name as your GitHub username and add a README.md file to the root directory. Customize your README with text, images, and links to showcase your personality and skills.
-Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
-<!---
-edogaw/edogaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Edogawa Conan! 👋  
+
+Welcome to my GitHub profile! I'm a passionate developer who loves to build creative and innovative solutions.  
+
+### 🚀 About Me  
+- 🌱 Currently enhancing my Python-based Tetris game  
+- 💻 Skilled in Python, JavaScript, and web development  
+- 🎨 Enjoy experimenting with UI/UX design  
+- 🎮 Game development enthusiast  
+
+### 🔧 Technologies & Tools  
+- Python, JavaScript, HTML, CSS  
+- Git & GitHub for version control  
+- VSCode, PyCharm  
+
+### 📈 Stats  
+![Edogawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=edogaw&show_icons=true&theme=radical)
+
+
+### 📫 Get in Touch  
+- Email: [kudoshinichittn@gmail.com](mailto:kudoshinichittn@gmail.com)  
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.  

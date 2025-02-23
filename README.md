@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to build creative and innovative solutions.  
 
 ### 🚀 About Me  
-- 🌱 Currently enhancing my Python-based Tetris game  
 - 💻 Skilled in Python, JavaScript, and web development  
 - 🎨 Enjoy experimenting with UI/UX design  
 - 🎮 Game development enthusiast  
